@@ -1,0 +1,4 @@
+api:
+  url:
+    countries: https://restcountries.com/v3.1/all
+    geo-location: http://ip-api.com/json/{clientIP}
